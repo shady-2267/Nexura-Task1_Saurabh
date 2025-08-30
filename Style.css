@@ -1,0 +1,67 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        .card {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 700px;
+            margin: auto;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c7a7b;
+        }
+
+        h2 {
+            margin-top: 10px;
+            color: #444;
+        }
+
+        h3 {
+            font-style: italic;
+            color: #666;
+        }
+
+        img {
+            display: block;
+            margin: 15px auto;
+            border-radius: 8px;
+        }
+
+        ol {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .note {
+            text-align: center;
+            font-weight: bold;
+            color: #2c5282;
+        }
+
+        a {
+            text-decoration: none;
+            color: #0073e6;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        div {
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
